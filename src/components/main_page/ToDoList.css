@@ -1,0 +1,43 @@
+
+.expanse-container{
+  border-radius: 20px;
+    background-color: rgb(44, 44, 148);
+    color:white;
+    display: flex;
+    /* justify-content: space-evenly; */
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+/* align-items: center; */
+margin: 0.5rem 0;
+padding: 1rem;
+width: 80%;
+ 
+    border-radius: 20px;
+    align-self: center;
+}
+
+.expanse-item{
+    width: 70%;
+    display: flex;
+   
+    justify-content: space-around;
+    
+}
+.expanse-date{
+   width:30%;
+   margin-top: 10px;
+   margin-left: 30px;
+   font-weight:bold;
+   font-size: 25px;
+   
+}
+.expanse-price{
+    font-size: 25px;
+ background-color: rgb(110, 85, 234);
+    margin: 15px 15px ;
+    padding: 10px;
+    box-shadow: rgba(19, 17, 17, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(35, 27, 27, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+border-radius: 20px;
+}
+
+
+

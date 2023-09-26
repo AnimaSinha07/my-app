@@ -1,0 +1,8 @@
+.div-button{
+    background-color: rgb(155, 155, 240);
+    color:white;
+    padding: 5px;
+}
+div-button button:hover{
+    background: blueviolet;
+}
